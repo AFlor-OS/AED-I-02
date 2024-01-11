@@ -1,1 +1,4 @@
 # AED-I-02
+Tarefa feita durante o semetre para a materia Introdução à Algoritmos e Estruturas de Dados I.
+Programa feito para dizer se, para cada caso de teste, a operação foi feita por uma pilha ou uma fila. Além disso, é desejável identificar os casos em que o caso de teste apresentado não permite definir qual das duas estruturas de dados foi utilizada ou, até mesmo, identificar que seria impossível que tal saída fosse gerada por pilha ou filha. 
+A entrada contém uma lista de casos de teste com sua respectiva saída. A primeira linha indica o número inteiro N (1 ≤ N ≤ 100) de casos. As próximas N linhas contêm os casos de teste, no seguinte formato. A linha é iniciada por um inteiro K (2 ≤ K ≤ 100), indicando quantas operações de inserção ou remoção serão efetuadas. Por fim, são apresentados K pares C I (C ∊ {‘i’,’r’}, -10 ≤ I ≤ 10) indicando a operação (‘i’ para inserção, ‘r’ para remoção) e o valor do item a inserir ou que foi removido.
